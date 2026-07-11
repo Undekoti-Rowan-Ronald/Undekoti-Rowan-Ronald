@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rowan 👋</h1>
 
 <p align="center">
-R&D AI Engineer | LLMs, RAG & Machine Learning | Java Development | M.Tech (Integrated) AI @ SRM
+R&D AI Engineer | LLMs, RAG & Machine Learning | Java Development | M.Tech AI @ SRM
 </p>
 
 ---
