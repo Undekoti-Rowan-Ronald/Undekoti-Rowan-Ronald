@@ -9,7 +9,7 @@ R&D AI Engineer | LLMs, RAG & Machine Learning | Java Development | M.Tech (Inte
 ### 🔭 What I'm working on
 
 - 🤖 **AI Research & Audio Forensics** — self-supervised learning for deepfake audio detection (HuBERT, XLS-R), reaching **0.72% EER** on ASVspoof 2019. Published author, CRC Press.
-- 🛠️ **Edge AI & Computer Vision** — real-time detection pipelines on Raspberry Pi 5 (OpenVINO, YOLOX Nano, YuNet/SFace), R&D AI Intern @ Valeo.
+- 🛠️ **Edge AI & Computer Vision** — real-time detection pipelines on edge devices (OpenVINO, YOLOX Nano, YuNet/SFace), R&D AI Intern @ Valeo.
 - 🧩 **LLMs & Agentic Workflows** — RAG pipelines, LangChain, Model Context Protocol (MCP) integrations for engineering automation.
 - ☕ **Java Development** — Core Java, OOP, Spring Boot fundamentals, REST APIs.
 
