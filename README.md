@@ -8,13 +8,13 @@ R&D AI Engineer | LLMs, RAG & Machine Learning | Java Development | M.Tech (Inte
 
 ### 🔭 What I'm working on
 
-- 🤖 **AI Research & Audio Forensics** — self-supervised learning for deepfake audio detection (HuBERT, XLS-R), reaching **0.72% EER** on ASVspoof 2019. Published author, CRC Press.
-- 🛠️ **Edge AI & Computer Vision** — real-time detection pipelines on edge devices (OpenVINO, YOLOX Nano, YuNet/SFace), R&D AI Intern @ Valeo.
-- 🧩 **LLMs & Agentic Workflows** — RAG pipelines, LangChain, Model Context Protocol (MCP) integrations for engineering automation.
-- ☕ **Java Development** — Core Java, OOP, Spring Boot fundamentals, REST APIs.
+- 🤖 **AI Research & Audio Forensics** - self-supervised learning for deepfake audio detection (HuBERT, XLS-R), reaching **0.72% EER** on ASVspoof 2019. Published author, CRC Press.
+- 🛠️ **Edge AI & Computer Vision** - real-time detection pipelines on edge devices (OpenVINO, YOLOX Nano, YuNet/SFace), R&D AI Intern @ Valeo.
+- 🧩 **LLMs & Agentic Workflows** - RAG pipelines, LangChain, Model Context Protocol (MCP) integrations for engineering automation.
+- ☕ **Java Development** - Core Java, OOP, Spring Boot fundamentals, REST APIs.
 
 ### 🧠 Currently exploring
-Knowledge distillation for edge deployment, and taking research-grade models into production-ready systems. Also deepening my Java backend skills — Spring Boot and Spring AI — to explore how LLM-powered systems integrate with classic enterprise architectures.
+Knowledge distillation for edge deployment, and taking research-grade models into production-ready systems. Also deepening my Java backend skills - Spring Boot and Spring AI - to explore how LLM-powered systems integrate with classic enterprise architectures.
 
 ---
 
@@ -45,10 +45,10 @@ Knowledge distillation for edge deployment, and taking research-grade models int
 
 ### 📌 Featured Projects
 
-- **[Deepfake Audio Detection Framework](https://github.com/Undekoti-Rowan-Ronald)** — HuBERT/XLS-R self-supervised pipeline, 0.72% EER, DistilHuBERT for edge deployment
-- **[Smart Helmet Detection & Dashboard](https://github.com/Undekoti-Rowan-Ronald/Smart-helmet-detection-with-dashboard-)** — real-time OpenVINO pipeline on Raspberry Pi 5, YOLOX Nano + YuNet/SFace
-- **[Efficient LLM Fine-Tuning Framework](https://github.com/Undekoti-Rowan-Ronald/FineTunning-Gemma-2-2b-it-for-enhancing-mathematical-reasoning)** — QLoRA + 4-bit quantization, 98% parameter reduction
-- **[Guard My Click](https://github.com/Undekoti-Rowan-Ronald/Phishing-Link-Detection-Using-a-Hybrid-ML-Fuzzy-Logic-Model-Integrated-with-Gmail-API)** — Flask + XGBoost phishing detection, 95% accuracy
+- **[Deepfake Audio Detection Framework](https://github.com/Undekoti-Rowan-Ronald)** - HuBERT/XLS-R self-supervised pipeline, 0.72% EER, DistilHuBERT for edge deployment
+- **[Smart Helmet Detection & Dashboard](https://github.com/Undekoti-Rowan-Ronald/Smart-helmet-detection-with-dashboard-)** - real-time OpenVINO pipeline on Raspberry Pi 5, YOLOX Nano + YuNet/SFace
+- **[Efficient LLM Fine-Tuning Framework](https://github.com/Undekoti-Rowan-Ronald/FineTunning-Gemma-2-2b-it-for-enhancing-mathematical-reasoning)** - QLoRA + 4-bit quantization, 98% parameter reduction
+- **[Guard My Click](https://github.com/Undekoti-Rowan-Ronald/Phishing-Link-Detection-Using-a-Hybrid-ML-Fuzzy-Logic-Model-Integrated-with-Gmail-API)** - Flask + XGBoost phishing detection, 95% accuracy
 
 *(Pin these on your profile via the "Customize your pins" option so they show up as cards below this README.)*
 
