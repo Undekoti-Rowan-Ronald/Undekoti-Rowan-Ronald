@@ -47,8 +47,8 @@ Knowledge distillation for edge deployment, and taking research-grade models int
 
 - **[Deepfake Audio Detection Framework](https://github.com/Undekoti-Rowan-Ronald)** — HuBERT/XLS-R self-supervised pipeline, 0.72% EER, DistilHuBERT for edge deployment
 - **[Smart Helmet Detection & Dashboard](https://github.com/Undekoti-Rowan-Ronald/Smart-helmet-detection-with-dashboard-)** — real-time OpenVINO pipeline on Raspberry Pi 5, YOLOX Nano + YuNet/SFace
-- **Efficient LLM Fine-Tuning Framework** — QLoRA + 4-bit quantization, 98% parameter reduction
-- **Guard My Click** — Flask + XGBoost phishing detection, 95% accuracy
+- **[Efficient LLM Fine-Tuning Framework](https://github.com/Undekoti-Rowan-Ronald/FineTunning-Gemma-2-2b-it-for-enhancing-mathematical-reasoning)** — QLoRA + 4-bit quantization, 98% parameter reduction
+- **[Guard My Click](https://github.com/Undekoti-Rowan-Ronald/Phishing-Link-Detection-Using-a-Hybrid-ML-Fuzzy-Logic-Model-Integrated-with-Gmail-API)** — Flask + XGBoost phishing detection, 95% accuracy
 
 *(Pin these on your profile via the "Customize your pins" option so they show up as cards below this README.)*
 
