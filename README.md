@@ -14,7 +14,7 @@ R&D AI Engineer | LLMs, RAG & Machine Learning | Java Development | M.Tech (Inte
 - ☕ **Java Development** — Core Java, OOP, Spring Boot fundamentals, REST APIs.
 
 ### 🧠 Currently exploring
-Knowledge distillation for edge deployment, and taking research-grade models into production-ready systems.
+Knowledge distillation for edge deployment, and taking research-grade models into production-ready systems. Also deepening my Java backend skills — Spring Boot and Spring AI — to explore how LLM-powered systems integrate with classic enterprise architectures.
 
 ---
 
