@@ -50,8 +50,6 @@ Knowledge distillation for edge deployment, and taking research-grade models int
 - **[Efficient LLM Fine-Tuning Framework](https://github.com/Undekoti-Rowan-Ronald/FineTunning-Gemma-2-2b-it-for-enhancing-mathematical-reasoning)** - QLoRA + 4-bit quantization, 98% parameter reduction
 - **[Guard My Click](https://github.com/Undekoti-Rowan-Ronald/Phishing-Link-Detection-Using-a-Hybrid-ML-Fuzzy-Logic-Model-Integrated-with-Gmail-API)** - Flask + XGBoost phishing detection, 95% accuracy
 
-*(Pin these on your profile via the "Customize your pins" option so they show up as cards below this README.)*
-
 ---
 
 ### 📫 Connect
